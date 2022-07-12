@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Nora Cosmetics
+
+A landing page for a cosmetic website made using React, Tailwind, and Sephora API from RapidAPI.
+
+Stock Photo image credits - Photo by Valeriia Miller: https://www.pexels.com/photo/the-ordinary-product-line-3685530/
+
+## Screenshot
+
+- Desktop
+  ![]('./Desktop_screenshot.png')
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
