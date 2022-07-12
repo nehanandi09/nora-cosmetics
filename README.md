@@ -7,7 +7,7 @@ Stock Photo image credits - Photo by Valeriia Miller: https://www.pexels.com/pho
 ## Screenshot
 
 - Desktop
-  ![]('./Desktop_screenshot.png')
+  ![Image]('./Desktop_screenshot.png')
 
 ## Getting Started with Create React App
 
