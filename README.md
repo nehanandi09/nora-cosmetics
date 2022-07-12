@@ -2,6 +2,8 @@
 
 A landing page for a cosmetic website made using React, Tailwind, and Sephora API from RapidAPI.
 
+[Live Site URL](https://nora-cosmetics.vercel.app/)
+
 Stock Photo image credits - Photo by Valeriia Miller: https://www.pexels.com/photo/the-ordinary-product-line-3685530/
 
 ## Screenshot
